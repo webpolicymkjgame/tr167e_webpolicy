@@ -41,7 +41,7 @@ function Header() {
 function HomePage() {
   const apps = [
     {
-      name: 'Mods for Minecraft - Addons',
+      name: 'Celebrity Prank Call & Chat',
       image: currency,
       link: 'https://play.google.com/store/apps/details?id=com.mcpecenter.mods.forminecraftpe.mcpeaddons'
     }
